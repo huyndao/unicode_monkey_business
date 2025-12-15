@@ -30,3 +30,9 @@ Examples:
   ./unitrick.py -i input_file.txt -n -o output_file.txt
   ./unitrick.py -s "The quick brown fox jumps over the lazy dog." -n -o output_file.txt
   ```
+
+### Disclaimer
+
+Idea is not my own, it was stolen from: [https://gibberifier.com/](https://gibberifier.com/)
+
+
